@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Robert Hoelzle, PhD
+logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist 
   <br><br>
-  Second description 
+  Bioinformatician 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/robert-hoelzle/">View My LinkedIn Profile</a> 
+  <a href="https://scholar.google.com/citations?user=gcUZmB4AAAAJ&hl=en">View My Google Scholar Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
