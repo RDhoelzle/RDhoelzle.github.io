@@ -1,11 +1,12 @@
-title: Robert Hoelzle, PhD
+title: Rob Hoelzle, PhD
 logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist 
-  <br><br>
+  <br>
   Bioinformatician 
   <br><br>
-  <a href="https://www.linkedin.com/in/robert-hoelzle/">View My LinkedIn Profile</a> 
-  <a href="https://scholar.google.com/citations?user=gcUZmB4AAAAJ&hl=en">View My Google Scholar Profile</a>
+  <a href="https://www.linkedin.com/in/robert-hoelzle/">LinkedIn</a> 
+  <br>
+  <a href="https://scholar.google.com/citations?user=gcUZmB4AAAAJ&hl=en">Google Scholar</a>
   
 theme: jekyll-theme-minimal
