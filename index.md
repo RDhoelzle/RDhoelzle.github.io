@@ -5,7 +5,7 @@
 ### Data Science Projects
 
 [Normalising Population Data for Geographical Heat Maps](https://rdhoelzle.github.io/population_heat_maps/) <br />
-<img src="https://github.com/RDhoelzle/population_heat_maps/blob/main/Images/scaled_immi_map.jpg?raw=true" width="400"/> <br />
+<img src="https://github.com/RDhoelzle/population_heat_maps/blob/main/Images/scaled_immi_map.jpg?raw=true" width="500"/> <br />
 
 ---
 
