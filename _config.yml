@@ -8,5 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/robert-hoelzle/">LinkedIn</a>
   <br>
   <a href="https://scholar.google.com/citations?user=gcUZmB4AAAAJ&hl=en">Google Scholar</a>
+  <br>
+  <a href="https://github.com/RDhoelzle/RDhoelzle.github.io/blob/master/pdf/CV_Robert_Hoelzle.pdf">View my CV</a>
 
 theme: jekyll-theme-minimal
