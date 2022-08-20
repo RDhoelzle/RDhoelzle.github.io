@@ -4,6 +4,8 @@
 
 ### Data Science Projects
 
+[Optimizing Machine Learning Models with GridSearchCV](https://medium.com/@RDHoelzle/optimizing-machine-learning-models-with-gridsearchcv-c3ff518c3a48) <br />
+<img src="https://github.com/RDhoelzle/gridsearchcv_optimization/blob/main/plots/svm_score.png?raw=true" width="500"/> <br />
 [Normalising Population Data for Geographical Heat Maps](https://medium.com/@robert.hoelzle/normalizing-population-data-for-geographical-heat-maps-1d43dec67c50) <br />
 <img src="https://github.com/RDhoelzle/population_heat_maps/blob/main/Images/scaled_immi_map.jpg?raw=true" width="500"/> <br />
 
