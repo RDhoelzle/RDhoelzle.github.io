@@ -13,6 +13,10 @@
 
 ### Top Publications
 
+- [Maternal diet modulates the infant microbiome and intestinal Flt3L necessary for dendritic cell development and immunity to respiratory infection, *Immunity* (2023)](https://www.cell.com/immunity/fulltext/S1074-7613(23)00119-X) <br />
+<img src="https://github.com/RDhoelzle/RDhoelzle.github.io/blob/master/images/mouse_gut.jpg?raw=true" width="250"/> <br />
+- [Genome-resolved metagenomics of milk microbiomes reveals the influence of maternal dietary fiber on neonatal inheritance of immunoregulatory traits, *Research Square* (2023)](https://www.researchsquare.com/article/rs-2641343/v1) <br />
+<img src="https://github.com/RDhoelzle/RDhoelzle.github.io/blob/master/images/mouse_milk.png?raw=true" width="250"/> <br />
 - [Genome-centric view of carbon processing in thawing permafrost, *Nature* (2018)](https://www.nature.com/articles/s41586-018-0338-1) <br />
 <img src="https://github.com/RDhoelzle/RDhoelzle.github.io/blob/master/images/permafrost.png?raw=true" width="250"/> <br />
 - [Substrate availability drives mixed culture fermentation of glucose to lactate at steady state, *Biotechnology & Bioengineering* (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/bit.27678) <br />
